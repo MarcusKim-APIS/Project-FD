@@ -114,6 +114,7 @@ int main(void)
   {
 	  HAL_GPIO_TogglePin (LD2_GPIO_Port, LD2_Pin);
 	  HAL_Delay(100);
+	  //Test for Github
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
